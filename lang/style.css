@@ -1,0 +1,14 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body pre {
+    font-family: 'JetBrains Mono';
+}
+body h1 {
+    margin: 20px;
+}
+body h2 {
+    margin: 10px 0 0 30px;
+}
